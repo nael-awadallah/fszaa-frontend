@@ -15,7 +15,7 @@
   height: 530.19px;
   flex-direction: column;
   align-items: flex-start;
-  background-image:/* webpackIgnore: true */ url('assets/header.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/header.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,7 +27,7 @@
   width: 96.7px;
   height: 100px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkImage.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkImage.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -93,7 +93,7 @@
   width: 20px;
   height: 20px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkImage2.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkImage2.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -136,7 +136,7 @@
   width: 13.84px;
   height: 20px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/image.png');
+  background-image:/* webpackIgnore: true */ url('/assets/image.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -198,7 +198,7 @@
   width: 29.64px;
   height: 20px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-image:/* webpackIgnore: true */ url('/assets/image2.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -375,7 +375,7 @@
   width: 32px;
   height: 28px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkImage3.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkImage3.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -730,7 +730,7 @@
   top: 0;
   height: 360px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkFazaaBehaviorsAppDownloadE.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/linkFazaaBehaviorsAppDownloadE.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -753,7 +753,7 @@
   width: 35px;
   height: 67.53px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/image3.png');
+  background-image:/* webpackIgnore: true */ url('/assets/image3.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -776,7 +776,7 @@
   width: 35px;
   height: 67.53px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/image4.png');
+  background-image:/* webpackIgnore: true */ url('/assets/image4.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -827,7 +827,7 @@
   top: 0;
   height: 216.39px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/usedCars1620201545146Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/usedCars1620201545146Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -887,7 +887,7 @@
   top: 0;
   height: 216.08px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/stores1662957799271Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/stores1662957799271Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -947,7 +947,7 @@
   top: 0;
   height: 216.39px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/darekOffers1686035617062Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/darekOffers1686035617062Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1007,7 +1007,7 @@
   top: 0;
   height: 216.39px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/newOffer1613905047994Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/newOffer1613905047994Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1155,7 +1155,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/kidzaniaDubaiMall1634541210717.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/kidzaniaDubaiMall1634541210717.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1265,7 +1265,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/tods1551190875649Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/tods1551190875649Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1375,7 +1375,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/adidas1551190947184Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/adidas1551190947184Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1485,7 +1485,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/gazeboRestaurant1701925953312J.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/gazeboRestaurant1701925953312J.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1595,7 +1595,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/alJaberOptical1557946768052Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/alJaberOptical1557946768052Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1776,7 +1776,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/realMadridWorld1713260202836Jp.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/realMadridWorld1713260202836Jp.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1886,7 +1886,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/adrenarkAdventure1712221442673.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/adrenarkAdventure1712221442673.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1996,7 +1996,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/pixoulGaming1712221420693Jpg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/pixoulGaming1712221420693Jpg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2106,7 +2106,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/theNationalAquarium17122213983.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/theNationalAquarium17122213983.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2216,7 +2216,7 @@
   flex-direction: column;
   outline: solid 1px #e7e7e7;
   outline-offset: -1px;
-  background-image:/* webpackIgnore: true */ url('assets/alAinZooTicketsChild1647158473.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/alAinZooTicketsChild1647158473.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2311,7 +2311,7 @@
   width: 35px;
   height: 67.53px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/image5.png');
+  background-image:/* webpackIgnore: true */ url('/assets/image5.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2324,7 +2324,7 @@
   width: 35px;
   height: 67.53px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/image6.png');
+  background-image:/* webpackIgnore: true */ url('/assets/image6.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2372,7 +2372,7 @@
   width: 75px;
   height: 75px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/homesFurniture1570525029333Png.png');
+  background-image:/* webpackIgnore: true */ url('/assets/homesFurniture1570525029333Png.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2428,7 +2428,7 @@
   width: 75px;
   height: 75px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/buildingMaterial1597047456681J.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/buildingMaterial1597047456681J.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2484,7 +2484,7 @@
   width: 75px;
   height: 75px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/engineeringConsultation1601289.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/engineeringConsultation1601289.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2560,7 +2560,7 @@
   width: 75px;
   height: 75px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/newOffers1612089893685Jpeg.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/newOffers1612089893685Jpeg.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2616,7 +2616,7 @@
   width: 75px;
   height: 75px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/frontLineHeroes1604305423118Jp.jpeg');
+  background-image:/* webpackIgnore: true */ url('/assets/frontLineHeroes1604305423118Jp.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2672,7 +2672,7 @@
   width: 75px;
   height: 75px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/healthyRestaurants158255224198.png');
+  background-image:/* webpackIgnore: true */ url('/assets/healthyRestaurants158255224198.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3228,7 +3228,7 @@
   width: 31px;
   height: 29px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage.png');
+  background-image:/* webpackIgnore: true */ url('/assets/itemLinkImage.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3242,7 +3242,7 @@
   width: 32px;
   height: 29px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage2.png');
+  background-image:/* webpackIgnore: true */ url('/assets/itemLinkImage2.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3256,7 +3256,7 @@
   width: 30px;
   height: 29px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage3.png');
+  background-image:/* webpackIgnore: true */ url('/assets/itemLinkImage3.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3270,7 +3270,7 @@
   width: 33px;
   height: 28px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage4.png');
+  background-image:/* webpackIgnore: true */ url('/assets/itemLinkImage4.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3284,7 +3284,7 @@
   width: 37px;
   height: 26px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage5.png');
+  background-image:/* webpackIgnore: true */ url('/assets/itemLinkImage5.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3324,7 +3324,7 @@
   width: 141px;
   height: 50px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkImage4.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkImage4.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3338,7 +3338,7 @@
   width: 148px;
   height: 50px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkImage5.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkImage5.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3352,7 +3352,7 @@
   width: 167px;
   height: 50px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkImage6.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkImage6.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3375,7 +3375,7 @@
   bottom: 0;
   width: 200px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/logoIso97983401Png.png');
+  background-image:/* webpackIgnore: true */ url('/assets/logoIso97983401Png.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3453,7 +3453,7 @@
   width: 375px;
   height: 105.91px;
   flex-direction: column;
-  background-image:/* webpackIgnore: true */ url('assets/linkLogoSocialSecurityFundFed1.png');
+  background-image:/* webpackIgnore: true */ url('/assets/linkLogoSocialSecurityFundFed1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

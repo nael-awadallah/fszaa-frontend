@@ -2,7 +2,7 @@ import { memo } from 'react';
 import type { FC } from 'react';
 
 import resets from '../_resets.module.css';
-import { ImgIcon } from './ImgIcon';
+import { ImgIcon } from './ImgIcon.js';
 import classes from './WwwFazaaAeByHtmlToDesignFREEVe.module.css';
 
 interface Props {

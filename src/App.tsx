@@ -3,7 +3,7 @@ import type { FC } from 'react';
 
 import classes from './App.module.css';
 import resets from './components/_resets.module.css';
-import { WwwFazaaAeByHtmlToDesignFREEVe } from './components/WwwFazaaAeByHtmlToDesignFREEVe/WwwFazaaAeByHtmlToDesignFREEVe';
+import { WwwFazaaAeByHtmlToDesignFREEVe } from './components/WwwFazaaAeByHtmlToDesignFREEVe/WwwFazaaAeByHtmlToDesignFREEVe.js';
 
 interface Props {
   className?: string;

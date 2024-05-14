@@ -1,5 +1,5 @@
-.clapyResets,
-.clapyResets * {
+:where(.clapyResets),
+:where(.clapyResets) * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -11,26 +11,26 @@
   overflow-wrap: anywhere;
 }
 
-.clapyResets,
-.clapyResets :not(span, a, ul, ol, li, p) {
+:where(.clapyResets),
+:where(.clapyResets) :not(span, a, ul, ol, li, p) {
   display: flex;
 }
 
-.clapyResets ul,
-.clapyResets ol {
+:where(.clapyResets) ul,
+:where(.clapyResets) ol {
   text-indent: 0;
   padding-inline-start: 1.5em;
 }
 
-.clapyResets p:empty::before {
+:where(.clapyResets) p:empty::before {
   content: '';
   display: inline-block;
 }
 
-.clapyResets img {
+:where(.clapyResets) img {
   object-fit: contain;
 }
 
-.clapyResets svg {
+:where(.clapyResets) svg {
   overflow: visible;
 }
