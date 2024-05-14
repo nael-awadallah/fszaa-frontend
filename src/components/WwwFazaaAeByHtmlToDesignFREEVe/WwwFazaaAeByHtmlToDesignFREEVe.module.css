@@ -1,0 +1,3591 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 2901.1101px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+}
+.header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 530.19px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image:/* webpackIgnore: true */ url('assets/header.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.linkImage {
+  position: absolute;
+  left: 35px;
+  top: 15px;
+  width: 96.7px;
+  height: 100px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkImage.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.list {
+  position: absolute;
+  right: 35px;
+  top: 20px;
+  width: 642.83px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 92.48px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.linkSignIn {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 30px;
+  top: -0.85px;
+  width: 62.8721px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.verticalDivider {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #fff;
+}
+.item2 {
+  position: absolute;
+  left: 122.49px;
+  top: 0;
+  bottom: 0;
+  width: 50px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.linkImage2 {
+  position: absolute;
+  left: 30px;
+  top: calc(50% - 0.005px);
+  width: 20px;
+  height: 20px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkImage2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.verticalDivider2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #fff;
+}
+.item3 {
+  position: absolute;
+  left: 202.49px;
+  top: 0;
+  bottom: 0;
+  width: 165.11px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.button {
+  position: absolute;
+  left: 30px;
+  top: calc(50% - 0.425px);
+  width: 135.11px;
+  height: 21.54px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.image {
+  position: absolute;
+  left: 0;
+  top: calc(50% - -0.42px);
+  width: 13.84px;
+  height: 20px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/image.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.findOnMap {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -12.1061px);
+  top: 0;
+  width: 111.6423px;
+  height: 20.7px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.verticalDivider3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #fff;
+}
+.item4 {
+  position: absolute;
+  left: 397.6px;
+  top: 0;
+  bottom: 0;
+  width: 79.63px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.link {
+  position: absolute;
+  left: 30px;
+  top: calc(50% - 0.425px);
+  width: 49.63px;
+  height: 21.54px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.image2 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - -0.42px);
+  width: 29.64px;
+  height: 20px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.unnamed {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 39.64px;
+  top: 0;
+  width: 10.2923px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.verticalDivider4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #fff;
+}
+.item5 {
+  position: absolute;
+  left: 507.22px;
+  top: 0;
+  bottom: 0;
+  width: 135.61px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.link2 {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 30px;
+  top: -0.85px;
+  width: 75.9266px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.verticalDivider5 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #fff;
+}
+.verticalDivider6 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #fff;
+}
+.list2 {
+  position: absolute;
+  right: 35px;
+  top: 76.61px;
+  width: 354.02px;
+  height: 33.39px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemLink {
+  position: absolute;
+  left: 0;
+  right: 183.32px;
+  top: 0;
+  height: 33.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: #002652;
+}
+.becomeAMember {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 12px;
+  top: 7.3px;
+  width: 147.0138px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.itemLink2 {
+  position: absolute;
+  left: 180.71px;
+  right: 0px;
+  top: 0;
+  height: 33.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: #002652;
+}
+.becomeAPartner {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 12px;
+  top: 7.3px;
+  width: 149.6259px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 130px;
+  height: 62.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.list3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 15px;
+  height: 32.69px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item6 {
+  position: absolute;
+  left: calc(50% - 531.72px);
+  top: 0;
+  bottom: 0;
+  width: 62px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.linkImage3 {
+  position: absolute;
+  left: 15px;
+  top: 0;
+  width: 32px;
+  height: 28px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkImage3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.horizontalDivider {
+  position: absolute;
+  left: 15px;
+  bottom: -5px;
+  width: 32px;
+  height: 2px;
+  background-color: #846826;
+}
+.item7 {
+  position: absolute;
+  left: calc(50% - 457.93px);
+  top: 0;
+  bottom: 0;
+  width: 85.58px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider7 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkFazaa {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 54.9474px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item8 {
+  position: absolute;
+  left: calc(50% - 359.45px);
+  top: 0;
+  bottom: 0;
+  width: 111.38px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider8 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkBenefits {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 80.704px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item9 {
+  position: absolute;
+  left: calc(50% - 191.03px);
+  top: 0;
+  bottom: 0;
+  width: 225.48px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider9 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkLongTermCarLease {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 194.8311px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item10 {
+  position: absolute;
+  left: calc(50% - 15.75px);
+  top: 0;
+  bottom: 0;
+  width: 125.06px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider10 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkUsedCars {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 94.4054px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item11 {
+  position: absolute;
+  left: calc(50% - -120.52px);
+  top: 0;
+  bottom: 0;
+  width: 147.48px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider11 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkDailyRental {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 116.8604px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item12 {
+  position: absolute;
+  left: calc(50% - -243.96px);
+  top: 0;
+  bottom: 0;
+  width: 99.38px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider12 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkAmakin {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 68.6853px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item13 {
+  position: absolute;
+  left: calc(50% - -357.985px);
+  top: 0;
+  bottom: 0;
+  width: 128.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider13 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkInsurance {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 98.0411px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item14 {
+  position: absolute;
+  left: calc(50% - -460.775px);
+  top: 0;
+  bottom: 0;
+  width: 76.89px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider14 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkLoan {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 46.2303px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.item15 {
+  position: absolute;
+  left: calc(50% - -530.96px);
+  top: 0;
+  bottom: 0;
+  width: 63.48px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.verticalDivider15 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0.005px);
+  width: 1px;
+  max-width: 100%;
+  height: 25px;
+  max-height: 100%;
+  border-right: solid 1px #babcc2;
+  transform: translateY(-50%);
+}
+.linkFAQ {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 5.15px;
+  width: 32.8768px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 181.16px;
+  height: 360.55px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.linkFazaaBehaviorsAppDownloadE {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 360px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkFazaaBehaviorsAppDownloadE.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 317.67px;
+  width: 55px;
+  height: 87.53px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #ffffff80;
+}
+.image3 {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 35px;
+  height: 67.53px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/image3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.overlay2 {
+  position: absolute;
+  right: 0;
+  top: 317.67px;
+  width: 55px;
+  height: 87.53px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #ffffff80;
+}
+.image4 {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 35px;
+  height: 67.53px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/image4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.main {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 530.19px;
+  height: 1463.98px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.section {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 275.59px;
+  height: 342.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.container2 {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  top: 30px;
+  height: 277.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.link3 {
+  position: absolute;
+  left: 0;
+  right: 1015.72px;
+  top: 0;
+  height: 277.08px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.usedCars1620201545146Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 216.39px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/usedCars1620201545146Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.background2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 216.39px;
+  height: 60.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #b48c24;
+}
+.heading5 {
+  position: absolute;
+  left: 20px;
+  right: 221.19px;
+  top: 20px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.fazaaUsedCars {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1594px);
+  top: -0.85px;
+  width: 153.4088px;
+  height: 20.7px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link4 {
+  position: absolute;
+  left: 404.28px;
+  right: 611.44px;
+  top: 0;
+  height: 276.77px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.stores1662957799271Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 216.08px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/stores1662957799271Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.background3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 216.08px;
+  height: 60.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #b48c24;
+}
+.heading52 {
+  position: absolute;
+  left: 20px;
+  right: 249.7px;
+  top: 20px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.fazaaStores {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1965px);
+  top: -0.85px;
+  width: 124.9731px;
+  height: 20.7px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link5 {
+  position: absolute;
+  left: 808.56px;
+  right: 207.16px;
+  top: 0;
+  height: 277.08px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.darekOffers1686035617062Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 216.39px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/darekOffers1686035617062Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.background4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 216.39px;
+  height: 60.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #b48c24;
+}
+.heading53 {
+  position: absolute;
+  left: 20px;
+  right: 249.59px;
+  top: 20px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.darekOffers {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1966px);
+  top: -0.85px;
+  width: 125.0833px;
+  height: 20.7px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link6 {
+  position: absolute;
+  left: 1212.84px;
+  right: -197.12px;
+  top: 0;
+  height: 277.08px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.newOffer1613905047994Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 216.39px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/newOffer1613905047994Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.background5 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 216.39px;
+  height: 60.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #b48c24;
+}
+.heading54 {
+  position: absolute;
+  left: 20px;
+  right: 266.51px;
+  top: 20px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.newOffers {
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1834px);
+  top: -0.85px;
+  width: 108.1368px;
+  height: 20.7px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.section2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 617.67px;
+  height: 423.16px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.heading2 {
+  position: absolute;
+  left: 35px;
+  right: 201.86px;
+  top: 30px;
+  bottom: 352.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.offers {
+  color: #002752;
+  font-size: 35px;
+  line-height: 40.25px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 125.3637px;
+  height: 40.25px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider2 {
+  position: absolute;
+  left: 149.97px;
+  top: calc(50% - 0.005px);
+  width: 250px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002652;
+  transform: translateY(-50%);
+}
+.link7 {
+  position: absolute;
+  left: calc(50% - -611.57px);
+  top: 30px;
+  width: 146.86px;
+  height: 38.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 25px;
+  background-color: #b48c24;
+  transform: translateX(-50%);
+}
+.viewMore {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1749px);
+  top: 9.3px;
+  width: 97.2098px;
+  height: 18.4px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.container3 {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  top: 90.25px;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.link8 {
+  position: absolute;
+  left: 0;
+  right: 1105.56px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.kidzaniaDubaiMall1634541210717 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/kidzaniaDubaiMall1634541210717.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container4 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.415px);
+  width: 205.33px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading55 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.kidZaniaDubaiMall {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 187.6155px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider3 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 200px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container5 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+._25DiscountEntryTicketA {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 200.6057px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._25 {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 230.33px;
+  top: 244.57px;
+  width: 59.4916px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link9 {
+  position: absolute;
+  left: 314.44px;
+  right: 791.12px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.tods1551190875649Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/tods1551190875649Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container6 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.415px);
+  width: 95.53px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading56 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.todS {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 49.2998px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider4 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 95.53px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container7 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+._10Discount {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 95.8777px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._10 {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 230.33px;
+  top: 244.57px;
+  width: 59.4916px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link10 {
+  position: absolute;
+  left: 628.88px;
+  right: 476.68px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.adidas1551190947184Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/adidas1551190947184Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container8 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.415px);
+  width: 205.33px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading57 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.adidas {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 62.8721px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider5 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 200px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container9 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+._15OFFAtSelectedAdidas {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 203.648px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._15 {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 230.32px;
+  top: 244.57px;
+  width: 59.4916px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link11 {
+  position: absolute;
+  left: 943.31px;
+  right: 162.25px;
+  top: 0;
+  height: 287.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.gazeboRestaurant1701925953312J {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 218.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/gazeboRestaurant1701925953312J.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container10 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -109.415px);
+  width: 184.5px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading58 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.gAZEBORestaurant {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 184.8434px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider6 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 184.5px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container11 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+._10Discount2 {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 95.8777px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._102 {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 230.33px;
+  top: 234.57px;
+  width: 59.4916px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link12 {
+  position: absolute;
+  left: 1257.75px;
+  right: -152.19px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.alJaberOptical1557946768052Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/alJaberOptical1557946768052Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container12 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.415px);
+  width: 156.86px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading59 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.alJaberOptical {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 157.1818px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider7 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 156.86px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container13 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.upTo40Discount {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 136.946px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.section3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1040.83px;
+  height: 423.16px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.heading22 {
+  position: absolute;
+  left: 35px;
+  right: 201.86px;
+  top: 30px;
+  bottom: 352.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.vouchers {
+  color: #002752;
+  font-size: 35px;
+  line-height: 40.25px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 179.0889px;
+  height: 40.25px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider8 {
+  position: absolute;
+  left: 203.75px;
+  top: calc(50% - 0.005px);
+  width: 250px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002652;
+  transform: translateY(-50%);
+}
+.link13 {
+  position: absolute;
+  left: calc(50% - -611.57px);
+  top: 30px;
+  width: 146.86px;
+  height: 38.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 25px;
+  background-color: #b48c24;
+  transform: translateX(-50%);
+}
+.viewMore2 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1749px);
+  top: 9.3px;
+  width: 97.2098px;
+  height: 18.4px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.container14 {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  top: 90.25px;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.link14 {
+  position: absolute;
+  left: 0;
+  right: 1105.56px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.realMadridWorld1713260202836Jp {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/realMadridWorld1713260202836Jp.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container15 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.405px);
+  width: 144.31px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading510 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.realMadrid {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 131.2115px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider9 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 144.31px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container16 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.realMadridWorld {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 142.9206px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._179AED {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 169.31px;
+  top: 244.56px;
+  width: 120.5161px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link15 {
+  position: absolute;
+  left: 314.44px;
+  right: 791.12px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.adrenarkAdventure1712221442673 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/adrenarkAdventure1712221442673.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container17 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.405px);
+  width: 144.31px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading511 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.adrenarkAdv {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 143.5912px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider10 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 144.31px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container18 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.getTiredPlayingTi {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 141.2793px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._159AED {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 169.31px;
+  top: 244.56px;
+  width: 120.5161px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link16 {
+  position: absolute;
+  left: 628.88px;
+  right: 476.68px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.pixoulGaming1712221420693Jpg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/pixoulGaming1712221420693Jpg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container19 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.405px);
+  width: 144.31px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading512 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.pIXOULGAMING {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 135.685px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider11 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 144.31px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container20 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.getYourStoryMo {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 136.5557px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._119AED {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 169.31px;
+  top: 244.56px;
+  width: 120.5061px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link17 {
+  position: absolute;
+  left: 943.31px;
+  right: 162.25px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.theNationalAquarium17122213983 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/theNationalAquarium17122213983.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container21 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.405px);
+  width: 162.05px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading513 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.theNationalA {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 152.7583px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider12 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 162.05px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container22 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.beyondTheGlassEx {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 156.8215px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+._89AED {
+  color: #002752;
+  font-size: 32px;
+  line-height: 36.8px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 187.05px;
+  top: 244.56px;
+  width: 102.7484px;
+  height: 36.8px;
+  justify-content: center;
+  flex-direction: column;
+}
+.link18 {
+  position: absolute;
+  left: 1257.75px;
+  right: -152.19px;
+  top: 0;
+  height: 297.91px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.alAinZooTicketsChild1647158473 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 228.83px;
+  flex-direction: column;
+  outline: solid 1px #e7e7e7;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/alAinZooTicketsChild1647158473.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container23 {
+  position: absolute;
+  left: 15px;
+  top: calc(50% - -114.405px);
+  width: 179.78px;
+  height: 49.08px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.heading514 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 25.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.alAinZoo {
+  color: #002752;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 95.457px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider13 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 179.78px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #002752;
+}
+.container24 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30.69px;
+  height: 18.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.childEntryTicketsOnlyF {
+  color: #002752;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: -0.7px;
+  width: 167.67px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.section4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 245.59px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #f7f7f7;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+}
+.image5 {
+  position: absolute;
+  left: 10px;
+  top: 89.03px;
+  width: 35px;
+  height: 67.53px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/image5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.image6 {
+  position: absolute;
+  left: 1395px;
+  top: 89.03px;
+  width: 35px;
+  height: 67.53px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/image6.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.container25 {
+  position: absolute;
+  left: 55px;
+  right: 55px;
+  top: 25px;
+  height: 195.59px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.link19 {
+  position: absolute;
+  left: 0;
+  right: 1108.34px;
+  top: 0;
+  height: 170.3px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.backgroundBorderShadow {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 125px;
+  height: 125px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 6px #d5d9df;
+  outline-offset: -6px;
+  border-radius: 62.5px;
+  background-color: #fdfcfc;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.homesFurniture1570525029333Png {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75px;
+  height: 75px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/homesFurniture1570525029333Png.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+.heading4HomesFurniture {
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.1658px);
+  top: 145px;
+  width: 182.6116px;
+  height: 25.3px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link20 {
+  position: absolute;
+  left: 221.66px;
+  right: 886.68px;
+  top: 0;
+  height: 170.3px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.backgroundBorderShadow2 {
+  position: absolute;
+  left: calc(50% - 0.01px);
+  top: 0;
+  width: 125px;
+  height: 125px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 6px #d5d9df;
+  outline-offset: -6px;
+  border-radius: 62.5px;
+  background-color: #fdfcfc;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.buildingMaterial1597047456681J {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75px;
+  height: 75px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/buildingMaterial1597047456681J.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+.heading4BuildingMaterial {
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.1538px);
+  top: 145px;
+  width: 164.6076px;
+  height: 25.3px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link21 {
+  position: absolute;
+  left: 443.31px;
+  right: 665.03px;
+  top: 0;
+  height: 195.59px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.backgroundBorderShadow3 {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 125px;
+  height: 125px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 6px #d5d9df;
+  outline-offset: -6px;
+  border-radius: 62.5px;
+  background-color: #fdfcfc;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.engineeringConsultation1601289 {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75px;
+  height: 75px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/engineeringConsultation1601289.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+.heading4 {
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 145px;
+  width: 221.66px;
+  height: 50.59px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.engineeringConsultation {
+  position: absolute;
+  left: calc(50% - -0.1px);
+  top: -0.155px;
+  width: 124.38px;
+  height: 50.6px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.textBlock {
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.link22 {
+  position: absolute;
+  left: 664.97px;
+  right: 443.37px;
+  top: 0;
+  height: 170.3px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.backgroundBorderShadow4 {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 125px;
+  height: 125px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 6px #d5d9df;
+  outline-offset: -6px;
+  border-radius: 62.5px;
+  background-color: #fdfcfc;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.newOffers1612089893685Jpeg {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75px;
+  height: 75px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/newOffers1612089893685Jpeg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+.heading4NewOffers {
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.1801px);
+  top: 145px;
+  width: 110.2802px;
+  height: 25.3px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link23 {
+  position: absolute;
+  left: 886.63px;
+  right: 221.71px;
+  top: 0;
+  height: 170.3px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.backgroundBorderShadow5 {
+  position: absolute;
+  left: calc(50% - 0.01px);
+  top: 0;
+  width: 125px;
+  height: 125px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 6px #d5d9df;
+  outline-offset: -6px;
+  border-radius: 62.5px;
+  background-color: #fdfcfc;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.frontLineHeroes1604305423118Jp {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75px;
+  height: 75px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/frontLineHeroes1604305423118Jp.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+.heading4FrontLineHeroes {
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.155px);
+  top: 145px;
+  width: 167.8501px;
+  height: 25.3px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.link24 {
+  position: absolute;
+  left: 1108.28px;
+  right: 0.06px;
+  top: 0;
+  height: 170.3px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.backgroundBorderShadow6 {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 125px;
+  height: 125px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 6px #d5d9df;
+  outline-offset: -6px;
+  border-radius: 62.5px;
+  background-color: #fdfcfc;
+  box-shadow: 0px 3px 3px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.healthyRestaurants158255224198 {
+  z-index: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75px;
+  height: 75px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/healthyRestaurants158255224198.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+.heading4HealthyRestaurants {
+  color: #192c56;
+  font-size: 22px;
+  line-height: 25.3px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.1767px);
+  top: 145px;
+  width: 197.6333px;
+  height: 25.3px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1994.17px;
+  height: 906.94px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container26 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - 345.345px);
+  width: 1440px;
+  height: 216.25px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translate(-50%, -50%);
+}
+.heading3 {
+  position: absolute;
+  left: 50%;
+  top: 40px;
+  width: 840px;
+  height: 40.25px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.horizontalDivider14 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50.0124%;
+  bottom: 47.5031%;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #002752;
+}
+.background6 {
+  position: absolute;
+  left: calc(50% - -0.005px);
+  top: 0;
+  width: 289.69px;
+  height: 40.25px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  transform: translateX(-50%);
+}
+.whatWeAre {
+  color: #002752;
+  font-size: 35px;
+  line-height: 40.25px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -0.1893px);
+  top: -0.625px;
+  width: 230.0687px;
+  height: 40.25px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.fazaaIsASocialInitiativeWhichA {
+  position: absolute;
+  left: calc(50% - -0.09px);
+  top: 110.25px;
+  width: 1393.5px;
+  height: 66px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.textBlock3 {
+  color: #000;
+  font-size: 22px;
+  line-height: 33px;
+  font-weight: 300;
+  font-style: italic;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 22px;
+  line-height: 33px;
+  font-weight: 300;
+  font-style: italic;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.background7 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 216.25px;
+  height: 612.3px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #002752;
+}
+.container27 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - 0px);
+  width: 1440px;
+  height: 552.3px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translate(-50%, -50%);
+}
+.list4 {
+  position: absolute;
+  left: 20px;
+  right: 1170px;
+  top: 49.99px;
+  height: 104.26px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemLinkFazaaBenefits {
+  opacity: 0.8;
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 102.498px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.itemLinkBecomeAPartner {
+  opacity: 0.8;
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 28.39px;
+  width: 125.2535px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.itemLinkAvailableCars {
+  opacity: 0.8;
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 56.78px;
+  width: 98.9024px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.itemLinkFazaaStores {
+  opacity: 0.8;
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 85.17px;
+  width: 90.1087px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.heading6 {
+  position: absolute;
+  left: 20px;
+  right: 1170px;
+  top: 0;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.background8 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0px);
+  width: 103.89px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #002752;
+  transform: translateY(-50%);
+}
+.moreLinks {
+  color: #fffc;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 104.2508px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider15 {
+  opacity: 0.8;
+  position: absolute;
+  left: 128.89px;
+  top: calc(50% - -0.005px);
+  width: 121.11px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #fff;
+  transform: translateY(-50%);
+}
+.heading62 {
+  position: absolute;
+  left: 320px;
+  right: 745px;
+  top: 0;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.background9 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0px);
+  width: 80.8px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #002752;
+  transform: translateY(-50%);
+}
+.contact {
+  color: #fffc;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 81.1247px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider16 {
+  opacity: 0.8;
+  position: absolute;
+  left: 105.8px;
+  top: calc(50% - -0.005px);
+  width: 140px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #fff;
+  transform: translateY(-50%);
+}
+.address {
+  opacity: 0.8;
+  position: absolute;
+  left: 320px;
+  right: 745px;
+  top: 50.69px;
+  height: 368px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.strong {
+  position: absolute;
+  left: 0;
+  top: -0.5px;
+  width: 78.72px;
+  height: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.callCenter {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 79.0414px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.tel600520003 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 23.5px;
+  width: 106.0035px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.strong2 {
+  position: absolute;
+  left: 0;
+  top: 47.5px;
+  width: 73.63px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.abuDhabi {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 73.9435px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.behindMinistryOfInteriorVillaN {
+  position: absolute;
+  left: 0;
+  top: 91.5px;
+  width: 352.217px;
+  height: 48px;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.strong3 {
+  position: absolute;
+  left: 0;
+  top: 139.5px;
+  width: 41.09px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.dubai {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 41.4153px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.alQuoz2S03103PLOT01LogisticsPa {
+  position: absolute;
+  left: 0;
+  top: 183.5px;
+  width: 296.37px;
+  height: 48px;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.strong4 {
+  position: absolute;
+  left: 0;
+  top: 231.5px;
+  width: 54.38px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.sharjah {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 54.7468px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.zawayaWalkUniversityCityRd {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 275.5px;
+  width: 216.0377px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.strong5 {
+  position: absolute;
+  left: 0;
+  top: 299.5px;
+  width: 46.14px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ajman {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 46.4811px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.alHamidiya1BehindTrafficAndPat {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 343.5px;
+  width: 369.8139px;
+  height: 24px;
+  justify-content: center;
+  flex-direction: column;
+}
+.list5 {
+  position: absolute;
+  left: 745px;
+  right: 445px;
+  top: 50.69px;
+  height: 29px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemLinkImage {
+  opacity: 0.8;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 31px;
+  height: 29px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.itemLinkImage2 {
+  opacity: 0.8;
+  position: absolute;
+  left: 46px;
+  top: 0;
+  width: 32px;
+  height: 29px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.itemLinkImage3 {
+  opacity: 0.8;
+  position: absolute;
+  left: 93px;
+  top: 0;
+  width: 30px;
+  height: 29px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.itemLinkImage4 {
+  opacity: 0.8;
+  position: absolute;
+  left: 138px;
+  top: 0;
+  width: 33px;
+  height: 28px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.itemLinkImage5 {
+  opacity: 0.8;
+  position: absolute;
+  left: 186px;
+  top: 0;
+  width: 37px;
+  height: 26px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/itemLinkImage5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.horizontalBorder {
+  position: absolute;
+  left: 745px;
+  right: 445px;
+  top: 147.28px;
+  height: 226.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  box-shadow: inset 0px 1px 0px #335275;
+}
+.heading6DownloadOurAppsFazaa {
+  opacity: 0.8;
+  color: #fff;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 25.15px;
+  width: 223.2133px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.linkImage4 {
+  opacity: 0.8;
+  position: absolute;
+  left: 0;
+  top: 56.69px;
+  width: 141px;
+  height: 50px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkImage4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.linkImage5 {
+  opacity: 0.8;
+  position: absolute;
+  left: 0;
+  top: 116.69px;
+  width: 148px;
+  height: 50px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkImage5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.linkImage6 {
+  opacity: 0.8;
+  position: absolute;
+  left: 0;
+  top: 176.69px;
+  width: 167px;
+  height: 50px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkImage6.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.horizontalBorder2 {
+  position: absolute;
+  left: 745px;
+  right: 445px;
+  top: 398.97px;
+  height: 153.33px;
+  flex-direction: column;
+  align-items: flex-start;
+  box-shadow: inset 0px 1px 0px #335275;
+}
+.logoIso97983401Png {
+  position: absolute;
+  left: 0;
+  top: 26px;
+  bottom: 0;
+  width: 200px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/logoIso97983401Png.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.heading63 {
+  position: absolute;
+  left: 745px;
+  right: 445px;
+  top: 0;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.background10 {
+  position: absolute;
+  left: 0;
+  top: calc(50% - 0px);
+  width: 96.58px;
+  height: 20.69px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #002752;
+  transform: translateY(-50%);
+}
+.followUs {
+  color: #fffc;
+  font-size: 18px;
+  line-height: 20.7px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: -0.85px;
+  width: 96.9293px;
+  height: 20.7px;
+  justify-content: center;
+  flex-direction: column;
+}
+.horizontalDivider17 {
+  opacity: 0.8;
+  position: absolute;
+  left: 121.58px;
+  top: calc(50% - -0.005px);
+  width: 128.42px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #fff;
+  transform: translateY(-50%);
+}
+.Fazaa4all {
+  opacity: 0.8;
+  color: #fff;
+  font-size: 24px;
+  line-height: 27.6px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 745px;
+  top: 93.89px;
+  width: 122.5593px;
+  height: 27.6px;
+  justify-content: center;
+  flex-direction: column;
+}
+.linkLogoSocialSecurityFundFed1 {
+  opacity: 0.8;
+  position: absolute;
+  left: 1045px;
+  top: 223.19px;
+  width: 375px;
+  height: 105.91px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/linkLogoSocialSecurityFundFed1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.background11 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 828.55px;
+  height: 78.39px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #001b39;
+}
+.copyright2024FazaaAllRightRese {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 358.88px;
+  top: 29.3px;
+  width: 298.4821px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.paragraphVerticalBorder {
+  position: absolute;
+  left: calc(50% - -159.02px);
+  top: 30px;
+  bottom: 30px;
+  width: 404.2px;
+  flex-direction: column;
+  align-items: flex-start;
+  box-shadow: inset -1px 0px 0px #fff;
+  transform: translateX(-50%);
+}
+.linkTermsAndConditions {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21px;
+  top: -0.7px;
+  width: 154.2595px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.linkPrivacyPolicy {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194.94px;
+  top: -0.7px;
+  width: 95.8977px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.linkQualityPolicy {
+  color: #fff;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 300;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 310.49px;
+  top: -0.7px;
+  width: 94.0649px;
+  height: 18.4px;
+  justify-content: center;
+  flex-direction: column;
+}
+.button2 {
+  position: absolute;
+  left: 1360px;
+  bottom: 90px;
+  width: 50px;
+  height: 50px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 25px;
+  background-color: #b48c24;
+  overflow: hidden;
+  box-shadow: 0px 0px 20px 0px #00000040;
+}
+.border {
+  transform-origin: top left;
+  position: absolute;
+  left: 50%;
+  top: calc(50% - -4.9965px);
+  width: 23px;
+  height: 23px;
+  box-shadow: inset -3px 0px 0px #fff, inset 0px -3px 0px #fff;
+  transform: matrix(-0.7071, -0.7071, 0.7071, -0.7071, 0, 0) translate(-50%, -50%);
+}
+.button3 {
+  position: absolute;
+  left: 1360px;
+  bottom: 20px;
+  width: 50px;
+  height: 50px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 25px;
+  background-color: #b48c24;
+  overflow: hidden;
+  box-shadow: 0px 0px 20px 0px #00000040;
+}
+.img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
